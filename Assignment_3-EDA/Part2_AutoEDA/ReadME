@@ -1,0 +1,7 @@
+Exploratory Data Analysis (EDA) is utilized to investigate various parts of the data we are dealing with. EDA ought to be acted to track down the examples, visual bits of knowledge, and so on that, the information collection is having, prior to making a model or predicting something through the dataset. EDA is a general methodology of distinguishing qualities of the information we are dealing with by envisioning the dataset. EDA is performed to picture everything that data is saying to us prior to executing any conventional modeling or making a theory-testing model.
+Python provides certain open-source modules that can automate the whole process of EDA and save a lot of time. Some of these popular modules that we are going to explore are:-
+1. Pandas Profiler
+2. Sweetviz
+3. Autoviz
+We'll implement the gifts of these AutoEDA libraries on Song Popularity Dataset which is derived from Kaggle.
+About Dataset: Lately, multiple studies have been carried out to understand songs & it's popularity based on certain factors. Such song samples are broken down & their parameters are recorded to tabulate. Predicting the Song Popularity is the main aim.
