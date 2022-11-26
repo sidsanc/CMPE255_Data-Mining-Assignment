@@ -1,4 +1,5 @@
-Nearest NEighbors Algorithms 
+Nearest Neighbors Algorithms 
+
 Using any data set you want, implement colabs for the following ANN algorithms (see hints) - showcase proper metrics for this as well.
 
 a) LSH from scratch, Random projections from scratch
